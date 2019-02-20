@@ -22,6 +22,7 @@ def loop_iterator(number_of_times)
 end
 
 def times_iterator(number_of_times)
+  times_iterator = 0 
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
